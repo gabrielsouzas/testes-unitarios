@@ -1,0 +1,23 @@
+{
+  "name": "testes-unitarios",
+  "version": "1.0.0",
+  "description": "Repositório para estudar testes unitários",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielsouzas/testes-unitarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielsouzas/testes-unitarios/issues"
+  },
+  "homepage": "https://github.com/gabrielsouzas/testes-unitarios#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
